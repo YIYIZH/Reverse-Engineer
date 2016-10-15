@@ -1,0 +1,6 @@
+The goal is to find the input to the program that makes it print
+"Congratulations". 
+
+Note: "int" and not "unsigned int"
+
+You can use the same input to decrypt the next level.
